@@ -1,4 +1,4 @@
-# JavaScript Fundamentals (Practice Exercises & Mini Projects)
+# JavaScript Fundamentals
 This repo documents my journey in learning JavaScript from scratch (again). It includes practice exercises, notes, and mini console-based applications for building core JS skills.
 
 ---
@@ -90,5 +90,6 @@ Last Update: 2025-05-06
 
 ---
 ## What's Next?
-Last Update: 2025-06-11
+**Last Updated:** 2025-06-11
+
 As of June 11, 2025: took a break from fulltime JavaScript study to start Java Fundamentals. I'll continue practicing fundamentals on Codewars and revisit JavaScript for more advanced topics like asynchronous programming, DOM manipulation, and event handling after completing Java basics. Will also explore frameworks like React and Node.js and backend development.
